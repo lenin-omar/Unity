@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ad5c1da70c53b4d5f987dfa7255d318d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathVFX: {instanceID: 0}
+  - laserPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
